@@ -1,2 +1,2 @@
 # lambda-dynamodb-local
-A Container-based local runtime for AWS Lambda (Python) + DynamoDB
+This project has moved to https://github.com/AWLess/lambda-dynamodb-local
